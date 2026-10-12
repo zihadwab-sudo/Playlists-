@@ -1,10 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/saeidrahmanbd/BDIX-IPTV/main/logos/channel-1.png?ref=skym3u.dev" group-title="General",Channel 1
-https://drk6xq0vhn.gpcdn.net/live/channel_1_hd_abr/live/channel_1_hd_720/chunks.m3u8?nimblesessionid=212423783
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0ykfppN3/20240822-231405.png?ref=skym3u.dev" group-title="General",Star Jalsha HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8#skym3u.dev
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev" group-title="General",Sony Max 2
-https://drk6xq0vhn.gpcdn.net/live/max_2_abr/live/max_2_720/chunks.m3u8?nimblesessionid=212427785
 #EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev" group-title="General",Sony Entertainment TV
 https://drk6xq0vhn.gpcdn.net/live/sony_ent_hd_abr/live/sony_ent_hd_720/chunks.m3u8?nimblesessionid=212428325
 #EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev" group-title="General",Sony Ten 1
