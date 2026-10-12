@@ -1,7 +1,3 @@
-#EXTINF:-1, Homair Sport 2
-https://serieAleague.akamaized.net/hls/live/2107107/A1@25853-tapmad/master.m3u8
-#EXTINF:-1,T Sports
-https://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9q-qMIzoahbJArH3W3vOiEaB97nXMpWmLb0Ts759Tjsp/m3u8
 #EXTINF:-1,Bein Sports Xtra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1,PTV Sports
@@ -94,8 +90,6 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/in
 https://tvsen6.aynaott.com/kolkatatv/index.m3u8
 #EXTINF:-1,Channel S (576p)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8
-#EXTINF:-1,Ekushey TV (480p)
-https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1,Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1,My TV
@@ -202,7 +196,7 @@ http://27.124.71.27/Sun_Bangla/index.m3u8
 http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
 #EXTINF:-1,Love Natural
 http://27.124.71.27/Love_Nature/index.m3u8
-#EXTINF:-1,Animal Planet
+#EXTINF:-1,Sananda Tv
 http://27.124.71.27/Animal_Planet/index.m3u8
 #EXTINF:-1,Zoom
 https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
@@ -270,24 +264,16 @@ https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
 https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
 #EXTINF:-1,Disney Channel
 http://181.119.215.61:8000/play/a0g1/index.m3u8
-#EXTINF:-1,Cartoon Network
-https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 #EXTINF:-1,9x Jalwa
 https://tvsen6.aynaott.com/CiPT1VTG8bVekeAZiibd/index.m3u8
 #EXTINF:-1,9X Tashan
 https://tvsen6.aynaott.com/sMqhLN6n/index.m3u8
-#EXTINF:-1,B4U Kadak
-https://tvsen3.aynaott.com/X9E6bxg3/index.m3u8
 #EXTINF:-1,Dhinchaak
 https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8
 #EXTINF:-1,Goldmines Movies
 https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8
 #EXTINF:-1,Hindi Movie Classic 24
 https://vods2.aynaott.com/hindimovies/index.m3u8
-#EXTINF:-1,Shemaroo TV
-https://tvsen3.aynaott.com/27jCLCUX/index.m3u8
-#EXTINF:-1,Taaza TV
-https://tvsen3.aynaott.com/yRMLky2j/index.m3u8
 #EXTINF:-1,AMC TV
 https://tvsen6.aynaott.com/amc/index.m3u8
 #EXTINF:-1,Animal Planet HD
@@ -338,14 +324,10 @@ https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1,YTV
 https://tvsen3.aynaott.com/uYpFg3RV/index.m3u8
-#EXTINF:-1,Dios Te Ve Kids
-https://s.emisoras.tv:8081/diostevekids/index.m3u8
 #EXTINF:-1,Discovery Family
 https://tvsen5.aynaott.com/discoveryfamily/index.m3u8
 #EXTINF:-1,Disney Channel
 https://tvsen7.aynaott.com/disney/index.m3u8
-#EXTINF:-1,PBS Kids
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1,Teen Nick
 https://tvsen7.aynaott.com/teennick/index.m3u8
 #EXTINF:-1,TVC Arabic Kids
