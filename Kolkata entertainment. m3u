@@ -1,13 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Kolkata ENT" tvg-logo="https://i.imgur.com/Qf8G0W5.png",Aamar Bangla (720p)
+#EXTINF:-1 group-title="Kolkata ENT" tvg-logo="https://ibb.co.com/Kv0QpVs",Aamar Bangla (720p)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Kolkata ENT" tvg-logo="https://i.imgur.com/Qf8G0W5.png",Enter10 Bangla HD
+#EXTINF:-1 group-title="Kolkata ENT" tvg-logo="https://ibb.co.com/Kv0QpVs",Enter10 Bangla HD
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
 
-#EXTINF:-1 group-title="Kolkata ENT" tvg-logo="https://i.imgur.com/Qf8G0W5.png",Sananda Tv india
+#EXTINF:-1 group-title="Kolkata ENT" tvg-logo="https://ibb.co.com/Kv0QpVs",Sananda Tv india
 http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
 
-#EXTINF:-1 group-title="Kolkata ENT" tvg-logo="https://i.imgur.com/Qf8G0W5.png",Star Jalsha HD (720p)
+#EXTINF:-1 group-title="Kolkata ENT" tvg-logo="https://ibb.co.com/Kv0QpVs",Star Jalsha HD (720p)
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
