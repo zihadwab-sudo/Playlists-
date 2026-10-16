@@ -1,0 +1,20 @@
+#EXTINF:-1 tvg-id="" tvg-name="4K HD TV" tvg-logo="https://i.imgur.com/MF2YZme.jpeg" group-title="Documentary",4K HD TV
+https://live-aburayhan1103.telewebion.ir/ek/faratar/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ACCU WEATHER" tvg-logo="https://i.imgur.com/MF2YZme.jpeg" group-title="Documentary",ACCU WEATHER
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="https://i.imgur.com/MF2YZme.jpeg" group-title="Documentary",Animal Planet HD
+https://tvsen3.aynaott.com/wpa56Uk3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC Earth US" tvg-logo="https://i.imgur.com/MF2YZme.jpeg" group-title="Documentary",BBC Earth US
+https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="https://i.imgur.com/MF2YZme.jpeg" group-title="Documentary",Discovery Science
+https://tvsen3.aynaott.com/Zht5VqBb/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="https://i.imgur.com/MF2YZme.jpeg" group-title="Documentary",Discovery Turbo
+https://tvsen3.aynaott.com/9tYGMmMS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Love Natural" tvg-logo="https://i.imgur.com/MF2YZme.jpeg" group-title="Documentary",Love Natural
+http://27.124.71.27/Love_Nature/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo TV" tvg-logo="https://i.imgur.com/MF2YZme.jpeg" group-title="Documentary",Nat Geo TV
+https://tvsen3.aynaott.com/7mm4pwCy/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REAL WILD" tvg-logo="https://i.imgur.com/MF2YZme.jpeg" group-title="Documentary",REAL WILD
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwild-tcl/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Wild Life" tvg-logo="https://i.imgur.com/MF2YZme.jpeg" group-title="Documentary",Wild Life
+https://wildearth-plex.amagi.tv/master.m3u8
