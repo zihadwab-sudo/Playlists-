@@ -1,47 +1,26 @@
-#EXTINF:-1  ,Enter10 Bangla HD
-https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
-#EXTINF:-1 group-title="Music",Rongeen TV
-https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Disney Channel
-http://181.119.215.61:8000/play/a0g1/index.m3u8
+#EXTINF:-1  ,Investigation Discovery
+https://stream.ottplus.live/live/id_hd_abr/index.m3u8
+#EXTINF:-1  ,Sony BBC Earth HD
+https://stream.ottplus.live/live/bbc_earth_hd_abr/index.m3u8
+#EXTINF:-1,Wild TV
+https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
+#EXTINF:-1,Travel Channel
+https://tvsen3.aynaott.com/sFwCR6Fu/index.m3u8
+#EXTINF:-1,Travel XP
+https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
+#EXTINF:-1,HISTORY TV
+https://tvsen3.aynaott.com/np3JstRE/index.m3u8
+#EXTINF:-1,history
+https://n18syndication.akamaized.net/bpk-tv/History_TV18_Hindi_NW18_MOB/output01/master.m3u8
+#EXTINF:-1  ,Stream 13
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
 
-#EXTINF:-1  ,Cartoon Network
-https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
+#EXTINF:-1  ,Stream 131
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
+#EXTINF:-1  ,Stream 129
+http://202.70.146.135:8000/play/a05o/index.m3u8
+#EXTINF:-1 tvg-name="Travel XP English" group-title="Infotainment Channels",Travel XP English
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1  ,Zoo Moo
-https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-
-#EXTINF:-1,Disney Channel
-https://tvsen7.aynaott.com/disney/index.m3u8
-#EXTINF:-1,COMEDY CENTRAL
-https://tvsen3.aynaott.com/5fUWDMxZ/index.m3u8
-#:-1 EXTINF ,ZB Cartun TV
-https://server.zillarbarta.com/zbcatun/video.m3u8
-
-#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="news" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="Entertainment",ATN Bangla
-https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
-
-#EXTINF:-1 tvg-name="Mr Bean Animated" group-title="CARTOON Drama",Mr Bean Animated
-https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Motu Patlu" group-title="CARTOON Drama",Motu Patlu
-https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="Tom & Jerry TV" group-title="CARTOON Drama",Tom & Jerry TV
-https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-name="Gopal Bhar TV" group-title="CARTOON Drama",Gopal Bhar TV
-https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Nikki HD
-https://nomawnoijl.gpcdn.net/akash/nikky/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Funny Junior HD
-https://nomawnoijl.gpcdn.net/akash/funnyjunior/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",Joy HD
-https://nomawnoijl.gpcdn.net/akash/joy/playlist.m3u8
-
-#EXTINF:-1  ,Super Hungama
-https://stream.ottplus.live/live/sony_yay_abr/index.m3u8
-#EXTINF:-1  ,Cartoon Network
-https://stream.ottplus.live/live/cn_sd_abr/index.m3u8
+#EXTINF:-1 group-title="Infotainment",history
+https://live.thebosstv.com:30443/dwlive/HISTORY/playlist.m3u8
