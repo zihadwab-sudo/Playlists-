@@ -1,96 +1,12 @@
-#EXTINF:-1  ,MNTV (1080p)
-https://mntv.livebox.co.in/mntvhls/live.m3u8
-#EXTINF:-1  ,Bollywood 4U
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/22d13e33-8705-40e8-9809-4e80aa795f15/manifest.m3u8
-#EXTINF:-1  ,Zee Salaam
-https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeesalaam/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/426c6db7-595e-4aa8-859c-7e86ed2811d0/main.m3u8
-#EXTINF:-1  ,Zee One (1080p)
-https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8
-#EXTINF:-1,Sheemaroo Bollywood
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:-1  ,Zee Action
-https://stream.ottplus.live/live/zee_action_abr/index.m3u8
-#EXTINF:-1,Sananda Tv india
-http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
-#EXTINF:-1  ,Sochi 24 HD 🇷🇺
-http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
-#EXTINF:-1  ,Zee Action
-https://stream.ottplus.live/live/zee_action_abr/index.m3u8
-#EXTINF:-1  ,MNTV (1080p)
-https://mntv.livebox.co.in/mntvhls/live.m3u8
-#EXTINF:-1  ,Zee Salaam
-https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeesalaam/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/426c6db7-595e-4aa8-859c-7e86ed2811d0/main.m3u8
-#EXTINF:-1  ,Bollywood 4U (1080p)
-https://streams2.sofast.tv/umaxx/v1/0196d96223231ea506ec2e7986613e/0196d96312d71ebd416a37ff7b3317/playlist.m3u8
-EXTINF:-1  ,Bollywood HD Russia (576p)
-https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
-#EXTINF:-1  ,Bollywood Masala (1080p)
-https://streams2.sofast.tv/vglive-sk-373192/index.m3u8
-#EXTINF:-1  ,MBC Bollywood (1080p) [Geo-blocked]
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
-#EXTINF:-1  ,Cine Sony (720p)
-https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-#EXTINF:-1,Teen Nick
-https://tvsen7.aynaott.com/teennick/index.m3u8
-#EXTINF:-1,TBS
-https://tvsen6.aynaott.com/tbs/index.m3u8
-#EXTINF:-1,HBO 
-https://tvsen3.aynaott.com/u3NjUrny/index.m3u8
-#EXTINF:-1,EPIX TV
-https://tvsen3.aynaott.com/Ah3tLAfA/index.m3u8
-#EXTINF:-1,AMC TV
-https://tvsen6.aynaott.com/amc/index.m3u8
-#EXTINF:-1,Dhinchaak
-https://tvsen6.aynaott.com/a2cKGQtB/index.m3u8
-#EXTINF:-1,Goldmines Movies
-https://tvsen3.aynaott.com/5CGfPvGp/index.m3u8
-#EXTINF:-1,Hindi Movie Classic 24
-https://vods2.aynaott.com/hindimovies/index.m3u8
-
-#EXTINF:-1,Action Hollywood Movies
-https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:-1,Sheemaroo Bollywood
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:-1  ,Stream 154
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8
-#EXTINF:-1  ,Stream 73
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:-1  ,Stream 72
-https://vods2.aynaott.com/hindimovies/index.m3u8
-#EXTINF:-1  ,Deshi TV
-https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="KalaignarSeithigal.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SEITHIGAL_24X7/images/LOGO_HD/image.png" group-title="News",Kalaignar Seithigal (720p)
-https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="KairaliWe.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KAIRALI_WE/images/LOGO_HD/image.png" group-title="Movies",Kairali We (576p)
-https://cdn-3.pishow.tv/live/1530/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Goldmines_logo.png/1920px-Goldmines_logo.png?20250711062922" group-title="Entertainment",GoldMines
-https://cdn-2.pishow.tv/live/1459/master.m3u8
-
-#EXTINF:-1 tvg-name="Action Hollywood Movies" group-title="English Movies",Action Hollywood Movies
-https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-
-#EXTINF:-1 tvg-name="B4U Movies" group-title="Hindi",B4U Movies
-https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Zee Action" group-title="Hindi Movies",Zee Action
-http://103.175.73.12:8080/live/270/270_0.m3u8
-#EXTINF:-1 tvg-name="Goldmines" group-title="Hindi Movies",Goldmines
-https://cdn-2.pishow.tv/live/1459/master.m3u8
-#EXTINF:-1 tvg-name="Goldmines Movies" group-title="Hindi Movies",Goldmines Movies
-https://cdn-2.pishow.tv/live/1461/master.m3u8
-
-#EXTINF:-1 tvg-name="B4U Kadak" group-title="Hindi Movies",B4U Kadak
-https://cdn-2.pishow.tv/live/227/master.m3u8
-#EXTINF:-1 tvg-name="Goldmines Movies 2" group-title="Hindi Movies",Goldmines Movies 2
-https://cdn-2.pishow.tv/live/1460/master.m3u8
-
-#EXTINF:-1 tvg-name="Hinde Movies 3" group-title="Hindi Movies",Hinde Movies 3
-https://vods2.aynaott.com/hindimovies/index.m3u8
-
-#EXTINF:-1 tvg-name="Goldmines Bollywood" group-title="Hindi Movies",Goldmines Bollywood
-http://103.175.73.12:8080/live/52/52_0.m3u8
-
-#EXTINF:-1 tvg-name="Sheemaroo Bollywood" group-title="Hindi Movies",Sheemaroo Bollywood
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1  ,Saudia Arabia
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
+#EXTINF:-1,YTV
+https://tvsen3.aynaott.com/uYpFg3RV/index.m3u8
+#EXTINF:-1,Discovery Family
+https://tvsen5.aynaott.com/discoveryfamily/index.m3u8
+#EXTINF:-1,LAFF TV
+https://tvsen3.aynaott.com/UC6a8nsf/index.m3u8
+#EXTINF:-1,HGTV
+https://tvsen3.aynaott.com/Ge23xfY5/index.m3u8
+#EXTINF:-1,AXS
+https://tvsen3.aynaott.com/P2fJzfsg/index.m3u8
